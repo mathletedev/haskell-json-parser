@@ -18,5 +18,9 @@
 ## Works Cited
 
 "JSON Parser 100% From Scratch in Haskell." *YouTube*, uploaded by Tsoding, 21 Nov. 2019, www.youtube.com/watch?v=N9RUqGYuGfw.
+
 JSON Generator, json-generator.com/#. Accessed 13 Jan. 2025.
->! By coincidence, generated my name on line 234 :)
+
+<details>
+By coincidence, JSON Generator generated my name on line 234 :)
+</details>

@@ -22,5 +22,6 @@
 JSON Generator, json-generator.com/#. Accessed 13 Jan. 2025.
 
 <details>
-By coincidence, JSON Generator generated my name on line 234 :)
+    <summary>?</summary>
+    By coincidence, JSON Generator generated my name on line 234 :)
 </details>
